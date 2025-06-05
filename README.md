@@ -28,8 +28,3 @@ Analyzes continuous video streams to identify and track specific objects, events
 ⚡ AI Real-Time Detection
 An optimized AI system for instant identification and classification of data from live streams with minimal latency.
 
-🚀 Getting Started
-Each project folder contains specific instructions on how to set up and run the models.
-
-🤝 Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests.
